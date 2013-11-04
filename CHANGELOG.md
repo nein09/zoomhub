@@ -1,5 +1,9 @@
 # ZoomHub
 
+## 0.0.3 — November 2013
+
+
+
 ## 0.0.2 — November 3, 2013
 
 -   [ZH-22]: Persist metadata using [Redis].
