@@ -2,7 +2,7 @@
 
 ## 0.0.3 — November 2013
 
-
+-   Add [Boostrap] 3.0.1.
 
 ## 0.0.2 — November 3, 2013
 
@@ -26,6 +26,7 @@
 
 
 [Ansible]: http://www.ansibleworks.com/
+[Bootstrap]: http://getbootstrap.com/
 [deepzoomtools]: https://github.com/openzoom/node-deepzoomtools
 [LICENSE]: LICENSE
 [Rackspace]: http://www.rackspace.com/
